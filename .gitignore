@@ -49,3 +49,4 @@ src/main/api/.repository/
 
 # ignore log
 derby.log
+activemq-data/
